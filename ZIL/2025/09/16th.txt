@@ -28,3 +28,11 @@ FHS link:
 NEW FHS system (latest FHS changes)
 - bin -> /usr/bin
 - sbin -> /usr/sbin
+
+absolute path - starts in root folder/directory
+relative path - start in the currect folder
+
+pwd - print working directory (shows current folder/path)
+cd - change directory (used for changing the dir path/browsing tru dirs)
+ls - list, literally just shows a list of files in the certain dir
+
