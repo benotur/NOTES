@@ -1,0 +1,30 @@
+USER TYPES
+- root (super user) #full perms, super admin or whatever
+- basic user - #basic user
+- sudo perm user (super user do) - #basic user with sudo perms (similar to admin perms in windows, or extended usr rights)
+
+FHS (File Hierarchy Standard):
+/ - root directory of the entire FSH
+/bin/ - essential user command binaries
+/boot/ - static files of the boot loader
+/dev/ - device files
+/etc/ - host-specific system configuration
+/home/ - user home directories
+/lib/ - essential shared libraries and kernel modules
+/media/ - mount point for removable media
+/mnt/ - mount point for a temporarily mounted filesystems
+/opt/ - add-on application software packages
+/sbin/ - system binaries
+/srv/ - data for services provided by this system
+/tmp/ - temporary files
+/user/ - user utilities and applications
+/var/ - variable files
+/root/ - home directory for the root user
+/proc/ - virtual filesystem documenting kernel and process status as txt
+
+FHS link:
+- https://kanihal.wordpress.com/wp-content/uploads/2017/02/linux-directory-structure.jpeg
+
+NEW FHS system (latest FHS changes)
+- bin -> /usr/bin
+- sbin -> /usr/sbin
