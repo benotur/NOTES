@@ -1,0 +1,6 @@
+INTRODUCTION TO ZIH - Základy IKT Systémov - Hardware
+Q: What do we consider a computer?
+A: A computer is a device that consists of CPU, RAM, Inputs & Outputs
+- Von Neumann architecture
+
+even tho if somethin has a CPU, it should automatically have some sort of storage and I&O..
