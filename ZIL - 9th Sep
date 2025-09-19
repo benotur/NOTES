@@ -1,0 +1,38 @@
+HISTÓRIA - UNIX/LINUX
+
+60-te roky – projekt Multics
+70-te roky – projekt Unix
+	     Jeden z autorov: Denis Ritchie
+	     Unix bol napísaný v jazyku C; vlastnosti: - prenosnosť 
+ – multiuser 
+  - multitasking
+80-te roky – spor o dostupnosť zdrojových kódov
+-	Richard Stallman – GNU (GNU is Not Unix)
+-	jadro HURD
+-	Linus Torvalds – Linusov Minix > Linux
+Linux znamená:
+1.	Jadro OS
+2.	Jadro OS + GNU
+Linux + GNU
+3.	Distribúcia
+Ďalšie programy
+
+DEBIAN – UBUNTU – MINT > 3 ‘‘zakladane‘‘ linuxy
+Enterprise distibucie:
+RHEL – Red Hat Enterprise Linux: CentOS (Community enterprise OS)
+Alma Linux   \
+Rocky Linux /
+Fedora – distribucia sponzorovana Red hatom
+SLES – Suse Linux Enterprise Server
+            -free version OpenSuse
+Kali – penetracna verzia (testy)
+Asterisk – IP telefonna ustredna
+ClearOS – smerovac + firewall
+Scientific Linux – vedecke vypocty
+
+GUI:
+Ubuntu - GNOME
+Kubuntu - KDE
+Xubuntu - XFCE
+Lubuntu - LXDE
+Ubuntu Mate – Mate (looks like old KDE)
